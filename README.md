@@ -1,13 +1,33 @@
-# 👋 ¡Bienvenido a mi GitHub!  
+# 👋 ¡Hola, soy Fredy Omar Geraldo Rivera!  
 
-Soy **Fredy Omar Geraldo Rivera**.  
-Me apasiona **crear soluciones desde cero** que ayuden a las organizaciones a crecer y dejar una huella positiva.  
+Soy **Ingeniero Comercial** con especialización en **Machine Learning**.  
+Me apasiona crear soluciones desde cero que aporten valor a las organizaciones,  
+integrando control de gestión, análisis de datos y herramientas tecnológicas para optimizar procesos.  
 
-🌱 Al igual que en la vida, para lograr estabilidad y avanzar es necesario mantener equilibrio.  
-Por eso creo en una **trinidad fundamental**:  
+---
 
-- 1️⃣ Dominar el **control de gestión** para asegurar el orden  
-- 2️⃣ Analizar con claridad los **datos y el entorno**  
-- 3️⃣ 🌐 Adoptar la **innovación tecnológica** para optimizar procesos  
+## 📚 Mi camino de aprendizaje  
 
-✨ Porque siempre hay espacio para construir un futuro mejor. 
+Actualmente estoy enfocado en:  
+- Fortalecer mis bases en **matemáticas y estadística** aplicadas al ML  
+- Diseñar e implementar **pipelines de datos end-to-end**  
+- Mejorar mis prácticas de **ingeniería de software** para proyectos reproducibles  
+- Reforzar mi experiencia en **dashboards y análisis aplicado a la gestión pública**  
+- Explorar **NLP y Deep Learning** para aplicaciones en minería y mercados  
+
+---
+
+## 🛠️ Herramientas que utilizo y estoy aprendiendo  
+
+**Lenguajes y entornos:**  
+🐍 Python | VBA | SQL | R  
+
+**Librerías y frameworks:**  
+📊 Pandas | NumPy | Matplotlib | Scikit-learn | TensorFlow | PyTorch | Streamlit | Flask  
+
+**Otras herramientas:**  
+🐳 Docker | Git/GitHub | Power BI | Excel Avanzado  
+
+---
+
+✨ Siempre se puede velar por un futuro mejor. 🚀
