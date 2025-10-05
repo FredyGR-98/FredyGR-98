@@ -16,6 +16,24 @@ Creo que la clave está en **avanzar junto al mundo** y no quedarse estancado en
 
 Como buen gamer, veo mi desarrollo profesional como una **partida en progreso**, donde cada reto es una misión y cada skill aprendida me hace subir de nivel. 🚀  
 
+## 🎮 Subiendo de Nivel — Mi Progreso
+
+- 🐍 **Python** — Nivel 60 ➡️ 75 🔺 *(XP +1500)*  
+  ▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░ 75%  
+
+- 📊 **Excel/VBA & Power BI** — Nivel 70 ➡️ 80 🔺 *(XP +800)*  
+  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░ 85%  
+
+- 🤖 **Machine Learning (Scikit-learn, TensorFlow, Keras)** — Nivel 40 ➡️ 55 🔺 *(XP +1200)*  
+  ▓▓▓▓▓▓▓▓▓░░░░░░░░░░ 55%  
+
+- 📚 **Matemáticas & Estadística** — Nivel 30 ➡️ 45 🔺 *(XP +900)*  
+  ▓▓▓▓▓▓▓░░░░░░░░░░░░ 45%  
+
+- 🕹️ **NLP & Deep Learning (Side Quest)** — Nivel 10 ➡️ 25 🔺 *(XP +1600)*  
+  ▓▓▓▓▓░░░░░░░░░░░░░░ 25%  
+
+
 ### 🏆 Misiones principales 2025
 - ✅ **Dominar nuevas herramientas tecnológicas**  
   *(Misión completada: aprendí Python, ML, MLOps y más. ¡Subí de nivel! 🆙)*  
