@@ -12,35 +12,27 @@ Creo que la clave está en **avanzar junto al mundo** y no quedarse estancado en
 
 ---
 
-## 📚 Mi camino de aprendizaje (🎮 Modo Historia)
+## 👤 Sobre mí  
 
-Como buen gamer, veo mi desarrollo profesional como una **partida en progreso**, donde cada reto es una misión y cada skill aprendida me hace subir de nivel. 🚀  
+Actualmente brindo **apoyo profesional en la Municipalidad de Chañaral**, donde aplico mis conocimientos en **control de gestión y análisis de datos**.  
+Sin embargo, por **gusto propio y visión de futuro**, me esfuerzo constantemente por mejorar mis habilidades y seguir creciendo en el mundo del **análisis y la tecnología**.
 
----
+### 🎮 Logros actuales del 2025  
 
-### ✅ Dominar nuevas herramientas tecnológicas  ▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░ 80%  
-*(Misión completada: aprendí Python, ML, MLOps y más. ¡Subí de nivel! 🆙)*  
+### ✅ Dominar nuevas herramientas tecnológicas  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  
+*(Misión completada: aprendí **Python, ML, MLOps y más**. ¡Level 🆙)*  
 
----
+### 🔄 Perfeccionar dashboards y reportes para gestión pública  ▓▓▓▓▓▓▓▓░░░░░░░░░░  
+*(Tengo experiencia en **Excel/VBA y Power BI**, pero sigo estudiando para un upgrade 📊).*  
 
-### 🔄 Perfeccionar dashboards y reportes para gestión pública  ▓▓▓▓▓▓▓▓░░░░░░░░░░ 60%  
-*(Tengo experiencia en Excel/VBA y Power BI, pero sigo entrenando para un upgrade 📊).*  
-
----
-
-### 🔄 Refuerzo en matemáticas y estadística  ▓▓▓▓▓░░░░░░░░░░░░░ 40%  
+### 🔄 Refuerzo en matemáticas y estadística  ▓▓▓▓▓░░░░░░░░░░░░░  
 *(Skill en progreso, entrenando para el siguiente boss 🧮).*  
 
----
-
-### 🔄 Diseño de pipelines end-to-end  ▓▓▓▓▓▓░░░░░░░░░░░░ 50%  
+### 🔄 Diseño de pipelines end-to-end  ▓▓▓▓▓▓░░░░░░░░░░░░  
 *(En construcción: conectando datos, limpieza y despliegue como si fueran quests encadenadas ⚙️).*  
 
----
-
-### 🕹️ Explorar NLP y Deep Learning  
-▓▓░░░░░░░░░░░░░░░░ 20%  
-*(Side quest desbloqueada: crear recursos a partir de texto y comentarios 🤖).*  
+### 🕹️ Explorar NLP y Deep Learning  ▓░░░░░░░░░░░░░░░░░  
+*(Side quest desbloqueada: quiero potenciar esta habilidad para **crear recursos a partir de texto y comentarios** 🤖).*  
 
 ---
 
