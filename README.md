@@ -21,6 +21,7 @@ Actualmente brindo **apoyo profesional en la Municipalidad de Chañaral**, donde
 Sin embargo, por **gusto propio y visión de futuro**, me esfuerzo constantemente por mejorar mis habilidades y seguir creciendo en el mundo del **análisis y la tecnología**.
 
 ### 🎮 Logros actuales del 2025  
+
 ### ✅ Dominar nuevas herramientas tecnológicas  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  
 *(Misión completada: aprendí **Python, ML, MLOps y más**. ¡Level 🆙)*  
 
@@ -30,7 +31,7 @@ Sin embargo, por **gusto propio y visión de futuro**, me esfuerzo constantement
 ### 🕹️ Explorar NLP y Deep Learning  ▓░░░░░░░░░░░░░░░░░  
 *(Side quest desbloqueada: quiero potenciar esta habilidad para **crear recursos a partir de texto y comentarios** 🤖).*  
 
-> ### 🌟 Próximo objetivo
+> ### 🌟 Próximo objetivo  
 > Seguir acumulando **XP en proyectos reales** y desbloquear logros en **minería de datos y análisis aplicado**.  
 
 ---
