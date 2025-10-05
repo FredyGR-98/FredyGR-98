@@ -1,4 +1,7 @@
-# 👋 ¡Hola, soy Fredy Omar Geraldo Rivera!  
+# 👋 ¡Hola, soy Fredy Geraldo Rivera!  
+
+![Ingeniero Comercial](https://img.shields.io/badge/Ingeniero%20Comercial-0A66C2?style=for-the-badge) 
+![Futuro Analista de Datos](https://img.shields.io/badge/Futuro%20Analista%20de%20Datos-F7931E?style=for-the-badge)  
 
 Soy un **Ingeniero Comercial** con una mentalidad **adaptable** y orientada al crecimiento.  
 Creo que la clave está en **avanzar junto al mundo** y no quedarse estancado en el pasado.  
