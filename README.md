@@ -18,7 +18,6 @@ Actualmente brindo **apoyo profesional en la Municipalidad de Chañaral**, donde
 Sin embargo, por **gusto propio y visión de futuro**, me esfuerzo constantemente por mejorar mis habilidades y seguir creciendo en el mundo del **análisis y la tecnología**.
 
 ### 🎮 Logros actuales del 2025  
-
 ### ✅ Dominar nuevas herramientas tecnológicas  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  
 *(Misión completada: aprendí **Python, ML, MLOps y más**. ¡Level 🆙)*  
 
@@ -32,7 +31,7 @@ Sin embargo, por **gusto propio y visión de futuro**, me esfuerzo constantement
 > Seguir acumulando **XP en proyectos reales** y desbloquear logros en **minería de datos y análisis aplicado**.  
 
 ---
-## 🛠️ Tech Stack  
+## 🛠️ Habilidades técnicas
 
 ### 📂 Manejo & Análisis de Datos  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
@@ -56,6 +55,12 @@ Sin embargo, por **gusto propio y visión de futuro**, me esfuerzo constantement
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
+
+---
+
+### 📝 Modelado & Procesos  
+![BPMN](https://img.shields.io/badge/BPMN-003366?style=for-the-badge&logoColor=white)  
+*(Diagramación de procesos con **Business Process Model and Notation**).*  
 
 ---
 
