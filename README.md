@@ -1,19 +1,35 @@
 # 👋 ¡Hola, soy Fredy Omar Geraldo Rivera!  
 
-Soy **Ingeniero Comercial** con especialización en **Machine Learning**.  
-Me apasiona crear soluciones desde cero que aporten valor a las organizaciones,  
-integrando control de gestión, análisis de datos y herramientas tecnológicas para optimizar procesos.  
+Soy un **Ingeniero Comercial** con una mentalidad **adaptable** y orientada al crecimiento.  
+Creo que la clave está en **avanzar junto al mundo** y no quedarse estancado en el pasado.  
+
+🔎 Mi enfoque está en:  
+- **Análisis de datos** y **estadística aplicada** para la toma de decisiones.  
+- **Control de gestión** y optimización de procesos.  
+- Uso de **herramientas modernas** (Python, ML, Docker, Streamlit) junto con las más demandadas en el mercado (Excel/VBA, Power BI).  
+
+💡 Mi propósito es unir la **gestión tradicional** con la **tecnología moderna**, aportando **habilidades transferibles** que se adaptan a distintos sectores laborales.  
 
 ---
 
-## 📚 Mi camino de aprendizaje  
+## 📚 Mi camino de aprendizaje (🎮 Modo Historia)
 
-Actualmente estoy enfocado en:  
-- Fortalecer mis bases en **matemáticas y estadística** aplicadas al ML  
-- Diseñar e implementar **pipelines de datos end-to-end**  
-- Mejorar mis prácticas de **ingeniería de software** para proyectos reproducibles  
-- Reforzar mi experiencia en **dashboards y análisis aplicado a la gestión pública**  
-- Explorar **NLP y Deep Learning** para aplicaciones en minería y mercados  
+Como buen gamer, veo mi desarrollo profesional como una **partida en progreso**, donde cada reto es una misión y cada skill aprendida me hace subir de nivel. 🚀  
+
+### 🏆 Misiones principales 2025
+- ✅ **Dominar nuevas herramientas tecnológicas**  
+  *(Misión completada: aprendí Python, ML, MLOps y más. ¡Subí de nivel! 🆙)*  
+- 🔄 **Perfeccionar dashboards y reportes para gestión pública**  
+  *(Tengo experiencia en Excel/VBA y Power BI, pero sigo entrenando para un upgrade 📊).*  
+- 🔄 **Refuerzo en matemáticas y estadística**  
+  *(Skill en progreso, entrenando para el siguiente boss 🧮).*  
+- 🔄 **Diseño de pipelines end-to-end**  
+  *(En construcción: conectando datos, limpieza y despliegue como si fueran quests encadenadas ⚙️).*  
+- 🕹️ **Explorar NLP y Deep Learning**  
+  *(Side quest desbloqueada: crear recursos a partir de texto y comentarios, un mundo lleno de posibilidades 🤖).*  
+
+### 🌟 Próximo objetivo
+Seguir acumulando **XP en proyectos reales** y desbloquear logros en **minería de datos y análisis aplicado**.  
 
 ---
 ## 🛠️ Tech Stack  
