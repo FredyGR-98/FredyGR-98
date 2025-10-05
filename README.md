@@ -8,7 +8,7 @@ Creo que la clave está en **avanzar junto al mundo** y no quedarse estancado en
 - **Control de gestión** y optimización de procesos.  
 - Uso de **herramientas modernas** (Python, ML, Docker, Streamlit) junto con las más demandadas en el mercado (Excel/VBA, Power BI).  
 
-💡 Mi propósito es unir la **gestión tradicional** con la **tecnología moderna**, aportando **habilidades transferibles** que se adaptan a distintos sectores laborales.  
+> 💡 Mi propósito es unir la **gestión tradicional** con la **tecnología moderna**, aportando **habilidades transferibles** que se adaptan a distintos sectores laborales.  
 
 ---
 
@@ -25,22 +25,11 @@ Sin embargo, por **gusto propio y visión de futuro**, me esfuerzo constantement
 ### 🔄 Perfeccionar dashboards y reportes para gestión pública  ▓▓▓▓▓▓▓▓░░░░░░░░░░  
 *(Tengo experiencia en **Excel/VBA y Power BI**, pero sigo estudiando para un upgrade 📊).*  
 
-### 🔄 Refuerzo en matemáticas y estadística  ▓▓▓▓▓░░░░░░░░░░░░░  
-*(Skill en progreso, entrenando para el siguiente boss 🧮).*  
-
-### 🔄 Diseño de pipelines end-to-end  ▓▓▓▓▓▓░░░░░░░░░░░░  
-*(En construcción: conectando datos, limpieza y despliegue como si fueran quests encadenadas ⚙️).*  
-
 ### 🕹️ Explorar NLP y Deep Learning  ▓░░░░░░░░░░░░░░░░░  
 *(Side quest desbloqueada: quiero potenciar esta habilidad para **crear recursos a partir de texto y comentarios** 🤖).*  
 
----
-
-### 🌟 Próximo objetivo  
-Seguir acumulando **XP en proyectos reales** y desbloquear logros en **minería de datos y análisis aplicado**.  
-
-### 🌟 Próximo objetivo
-Seguir acumulando **XP en proyectos reales** y desbloquear logros en **minería de datos y análisis aplicado**.  
+> ### 🌟 Próximo objetivo
+> Seguir acumulando **XP en proyectos reales** y desbloquear logros en **minería de datos y análisis aplicado**.  
 
 ---
 ## 🛠️ Tech Stack  
