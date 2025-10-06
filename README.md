@@ -17,21 +17,20 @@ Creo que la clave está en **avanzar junto al mundo** y no quedarse estancado en
 
 ## 👤 Sobre mí  
 
-Actualmente brindo **apoyo profesional en la Municipalidad de Chañaral**, donde aplico mis conocimientos en **control de gestión y análisis de datos**.  
-Sin embargo, por **gusto propio y visión de futuro**, me esfuerzo constantemente por mejorar mis habilidades y seguir creciendo en el mundo del **análisis y la tecnología**.
+Actualmente brindo **apoyo profesional en la Municipalidad de Chañaral**, donde aplico mis conocimientos en **control de gestión y análisis de datos**, y al mismo tiempo, por **gusto propio y visión de futuro**, me esfuerzo por perfeccionar mis habilidades y seguir creciendo en el mundo del **análisis y la tecnología**.
 
 ### 🎮 Logros actuales del 2025  
 
-### ✅ Dominar nuevas herramientas tecnológicas  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  
+✅ Dominar nuevas herramientas tecnológicas  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  
 *(Misión completada: aprendí **Python, ML, MLOps y más**. ¡Level 🆙)*  
 
-### 🔄 Perfeccionar dashboards y reportes para gestión pública  ▓▓▓▓▓▓▓▓░░░░░░░░░░  
+🔄 Perfeccionar dashboards y reportes para gestión pública  ▓▓▓▓▓▓▓▓░░░░░░░░░░  
 *(Tengo experiencia en **Excel/VBA y Power BI**, pero sigo estudiando para un upgrade 📊).*  
 
-### 🕹️ Explorar NLP y Deep Learning  ▓░░░░░░░░░░░░░░░░░  
+🕹️ Explorar NLP y Deep Learning  ▓░░░░░░░░░░░░░░░░░  
 *(Side quest desbloqueada: quiero potenciar esta habilidad para **crear recursos a partir de texto y comentarios** 🤖).*  
 
-> ### 🌟 Próximo objetivo  
+> 🌟 Próximo objetivo  
 > Seguir acumulando **XP en proyectos reales** y desbloquear logros en **minería de datos y análisis aplicado**.  
 
 ---
@@ -59,12 +58,6 @@ Sin embargo, por **gusto propio y visión de futuro**, me esfuerzo constantement
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
-
----
-
-### 📝 Modelado & Procesos  
-![BPMN](https://img.shields.io/badge/BPMN-003366?style=for-the-badge&logoColor=white)  
-*(Diagramación de procesos con **Business Process Model and Notation**).*  
 
 ---
 
